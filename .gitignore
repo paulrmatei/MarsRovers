@@ -2,7 +2,7 @@
 client/node_modules
 client/.pnp
 client.pnp.js
-sever/node_modules
+server/node_modules
 
 
 # testing
